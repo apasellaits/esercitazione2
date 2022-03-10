@@ -17,7 +17,7 @@
 
 8- TUTTI INSIEME:
 
-    - pull&branch
+    - pull&branch (OGNUNO IL SUO)
     
     - riempire il corpo della funzione con il system.println del proprio nome
     
